@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BoxDeveloperChallenge</string>
+    <string name="name">Name</string>
+    <string name="email">e-mail</string>
+    <string name="box_size">Box size</string>
+    <string name="box_color">Box color</string>
+    <string name="print_name_on_top_of_box">Print name on top of box</string>
+    <string name="sign_up">Sign up</string>
+    <string name="mandatory_field">Mandatory field</string>
+    <string name="invalid_field">Invalid field</string>
+    <string name="wrong_box_size">Wrong box size</string>
+    <string name="wrong_box_color">Wrong box color</string>
+    <string name="wrong_size_color_pair">Wrong size color pair</string>
+    <string name="success">Success</string>
+    <string name="error_occurred">Error occurred</string>
+</resources>
